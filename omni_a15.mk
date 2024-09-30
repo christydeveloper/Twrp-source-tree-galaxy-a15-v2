@@ -18,7 +18,7 @@ $(call inherit-product, device/samsung/a15/device.mk)
 PRODUCT_DEVICE := a15
 PRODUCT_NAME := omni_a15
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A155F
+PRODUCT_MODEL := SM-A155M
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
