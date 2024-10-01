@@ -12,3 +12,4 @@ COMMON_LUNCH_CHOICES := \
     twrp_a15-user \
     twrp_a15-userdebug \
     twrp_a15-eng
+    twrp_a15
